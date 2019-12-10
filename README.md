@@ -24,6 +24,3 @@ Jamsite - JAMstack framework where static goes dynamic.
 - fix premature ready event in chokidar
 - pluggable template engine
 - pluggable data sources
-- pluggable asset bundler
-- dev mode custom error page with mini tutorial
-- dev api, e.g. create new page interface from default 404 page
