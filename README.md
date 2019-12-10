@@ -2,6 +2,10 @@
 
 Jamsite - JAMstack framework where static goes dynamic.
 
+## Usage
+
+`npx jamsite`
+
 ## TODO
 
 - :heavy_check_mark: implement frontmatter rewrite rules handling
