@@ -1605,11 +1605,6 @@
       "integrity": "sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=",
       "dev": true
     },
-    "easy-whois": {
-      "version": "1.2.0",
-      "resolved": "https://registry.npmjs.org/easy-whois/-/easy-whois-1.2.0.tgz",
-      "integrity": "sha512-9YUeJoWbhMxgyBm7Ripd9v57GQn3x/bzWSimIfhbhAbvzAKvrUmp9Q1m/ofJB0krUR+qWVUOqKnvKZpN2ghdQw=="
-    },
     "emittery": {
       "version": "0.4.1",
       "resolved": "https://registry.npmjs.org/emittery/-/emittery-0.4.1.tgz",
