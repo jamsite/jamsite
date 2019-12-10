@@ -1,5 +1,5 @@
 {
-  "name": "jamsite",
+  "name": "@jamsite/jamsite",
   "version": "0.0.1",
   "description": "Jamsite - JAMstack framework",
   "main": "./lib",
@@ -48,5 +48,13 @@
     "branches": 100,
     "functions": 100,
     "lines": 100
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamsite/jamsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jamsite/jamsite/issues"
+  },
+  "homepage": "https://github.com/jamsite/jamsite#readme"
 }
