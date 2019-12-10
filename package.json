@@ -18,7 +18,7 @@
   "author": "Aleksandr Tsertkov <tsertkov@gmail.com>",
   "license": "MIT",
   "bin": {
-    "jamsite": "bin/jamsite.js"
+    "jamsite-prod": "bin/jamsite-prod.js"
   },
   "dependencies": {
     "chokidar": "^3.3.0",

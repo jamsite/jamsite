@@ -4,7 +4,7 @@ Jamsite - JAMstack framework where static goes dynamic.
 
 ## Usage
 
-`npx jamsite`
+`npx jamsite-prod`
 
 ## TODO
 
