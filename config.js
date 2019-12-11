@@ -4,5 +4,6 @@ const path = require('path')
 
 module.exports = {
   root: path.join(process.cwd(), 'src'),
-  port: 3000
+  port: 3000,
+  host: 'localhost'
 }
