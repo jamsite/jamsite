@@ -2,9 +2,21 @@
 
 Jamsite - JAMstack framework where static goes dynamic.
 
+## Overview
+
+
+
 ## Usage
 
+Jamsite must be installed locally `npm install @jamsite/jamsite` or globally `npm install -g @jamsite/jamsite`.
+
+Execute jamsite-prod in a folder with site template (e.g. https://github.com/jamsite/brewing-starter-site):
+
 `npx jamsite-prod`
+
+Open url from output in a browser:
+
+`jamsite: Accepting connections on http://127.0.0.1:3000`
 
 ## TODO
 
@@ -19,6 +31,7 @@ Jamsite - JAMstack framework where static goes dynamic.
 - environment aware configuration system
 - custom error pages
 - static templates (dynamic frontmatter, but static page content)
+- save generated pages as static files
 - support toml for data-static files
 - i18n concept (locale aware templates, locale aware data)
 - fix premature ready event in chokidar
