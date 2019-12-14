@@ -4,7 +4,7 @@ Jamsite - JAMstack framework where static goes dynamic.
 
 ## Overview
 
-
+This package is intended only for production use: runtime serving site or static files generation.
 
 ## Usage
 
