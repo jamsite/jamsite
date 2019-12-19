@@ -1,4 +1,4 @@
-const getRequestHandler = require('./lib/get-request-handler')
+const getRequestHandler = require('./lib/request-handler')
 const JamsitePages = require('./lib/jamsite-pages')
 const config = require('./config')
 

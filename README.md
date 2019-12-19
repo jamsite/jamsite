@@ -28,12 +28,11 @@ Open url from output in a browser:
 - :heavy_check_mark: use micro programmatically
 - :heavy_check_mark: split jamsite and jamsite-dev
 - :heavy_check_mark: pluggable server middleware (gzip, html minification, etc)
+- :heavy_check_mark: static templates (dynamic frontmatter, but static page content)
+- :heavy_check_mark: support toml for data-static files
 - environment aware configuration system
 - custom error pages
-- static templates (dynamic frontmatter, but static page content)
 - save generated pages as static files
-- support toml for data-static files
 - i18n concept (locale aware templates, locale aware data)
 - fix premature ready event in chokidar
-- pluggable template engine
 - pluggable data sources
