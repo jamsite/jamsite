@@ -36,6 +36,7 @@ Open url from output in a browser:
 - i18n concept (locale aware templates, locale aware data)
 - fix premature ready event in chokidar
 - pluggable data sources
+- windows support
 
 ## Performance
 
