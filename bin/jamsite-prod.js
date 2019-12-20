@@ -1,9 +1,10 @@
 #!/usr/bin/env node
 const config = require('../config')
-const jamsiteHandler = require('../jamsite-handler')
+const JamsitePages = require('../lib/jamsite-pages')
 const jamsiteServer = require('../lib/jamsite-server')
+const getRequestHandler = require('../lib/request-handler')
 
-jamsiteServer(jamsiteHandler, {
-  port: config.port,
-  host: config.host
-})
+jamsiteServer(
+  getRequestHandler(new JamsitePages(config.jamsite)),
+  config.server
+)
