@@ -10,9 +10,9 @@ This package is intended only for production use: runtime serving site or static
 
 Jamsite must be installed locally `npm install @jamsite/jamsite` or globally `npm install -g @jamsite/jamsite`.
 
-Execute jamsite-prod in a folder with site template (e.g. https://github.com/jamsite/playground-site):
+Execute jamsite in a folder with site template (e.g. https://github.com/jamsite/playground-site):
 
-`npx jamsite-prod`
+`npx jamsite`
 
 Open url from output in a browser:
 
