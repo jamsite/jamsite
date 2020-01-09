@@ -1,4 +1,4 @@
-# Jamsite
+# jamsite
 
 Jamsite - JAMstack framework where static goes dynamic.
 
