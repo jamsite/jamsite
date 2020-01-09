@@ -17,9 +17,6 @@
   ],
   "author": "Aleksandr Tsertkov <tsertkov@gmail.com>",
   "license": "MIT",
-  "bin": {
-    "jamsite": "bin/jamsite.js"
-  },
   "dependencies": {
     "chokidar": "^3.3.1",
     "fs-router": "^0.5.0",

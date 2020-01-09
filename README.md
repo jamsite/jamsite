@@ -8,11 +8,11 @@ This package is intended only for production use: runtime serving site or static
 
 ## Usage
 
-Jamsite must be installed locally `npm install @jamsite/jamsite` or globally `npm install -g @jamsite/jamsite`.
+Install `jamsite-cli` globally with `npm i -g @jamsite/jamsite-cli`.
 
-Execute jamsite in a folder with site template (e.g. https://github.com/jamsite/playground-site):
+Execute `jamsite start` in a folder with site template (e.g. https://github.com/jamsite/playground-site):
 
-`npx jamsite`
+`% jamsite start`
 
 Open url from output in a browser:
 
