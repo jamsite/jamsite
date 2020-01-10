@@ -14,6 +14,7 @@ module.exports = {
     root: config.root
   },
   server: {
+    // https://nodejs.org/api/net.html#net_server_listen_options_callback
     port: config.port,
     host: config.host
   }
