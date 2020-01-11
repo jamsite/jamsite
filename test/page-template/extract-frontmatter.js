@@ -1,5 +1,5 @@
 const test = require('ava')
-const extractFrontmatter = require('../lib/extract-frontmatter')
+const extractFrontmatter = require('../../lib/page-template/extract-frontmatter')
 
 test('empty data', (t) => {
   const {

@@ -1,5 +1,5 @@
 const test = require('ava')
-const objectGet = require('../lib/object-get')
+const objectGet = require('../../lib/page-template/object-get')
 
 test('supports handlebars dot-path style', (t) => {
   const obj = {
