@@ -4,7 +4,7 @@ Jamsite - JAMstack framework where static goes dynamic.
 
 ## Overview
 
-This package is intended only for production use: runtime serving site or static files generation. Use [@jamsite/jamsite-dev](https://www.npmjs.com/package/@jamsite/jamsite-dev) for development mode.
+This package is intended for production use only: jamsite server or static files generation. Use [@jamsite/jamsite-dev](https://www.npmjs.com/package/@jamsite/jamsite-dev) for development mode.
 
 ## Usage
 
