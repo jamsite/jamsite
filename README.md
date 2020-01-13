@@ -31,12 +31,12 @@ Open url from output in a browser:
 - :heavy_check_mark: static templates (dynamic frontmatter, but static page content)
 - :heavy_check_mark: support toml for data-static files
 - :heavy_check_mark: windows support
+- :heavy_check_mark: pluggable core
 - environment aware configuration system
 - custom error pages
 - save generated pages as static files
 - i18n concept (locale aware templates, locale aware data)
 - fix premature ready event in chokidar
-- pluggable data sources
 
 ## Performance
 
