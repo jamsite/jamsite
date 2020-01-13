@@ -10,7 +10,7 @@ This package is intended only for production use: runtime serving site or static
 
 Install `jamsite-cli` globally with `npm i -g @jamsite/jamsite-cli`.
 
-Execute `jamsite start` in a folder with site template (e.g. https://github.com/jamsite/playground-site):
+Execute `jamsite start` in a folder with site template (e.g. https://github.com/jamsite/site-starter-hello-world):
 
 `% jamsite start`
 
