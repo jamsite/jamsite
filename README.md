@@ -39,6 +39,8 @@ Open url from output in a browser:
 - save generated pages as static files
 - i18n concept (locale aware templates, locale aware data)
 - fix premature ready event in chokidar
+- data explorer
+- task runner
 
 ## Performance
 
