@@ -35,6 +35,7 @@ Open url from output in a browser:
 - :heavy_check_mark: windows support
 - :heavy_check_mark: pluggable core
 - environment aware configuration system
+- support .env file
 - custom error pages
 - save generated pages as static files
 - i18n concept (locale aware templates, locale aware data)
