@@ -34,14 +34,14 @@ Open url from output in a browser:
 - :heavy_check_mark: support toml for data-static files
 - :heavy_check_mark: windows support
 - :heavy_check_mark: pluggable core
-- environment aware configuration system
-- support .env file
+- :heavy_check_mark: support jamsite-config
+- data explorer
+- task runner
+- support .env
 - custom error pages
 - save generated pages as static files
 - i18n concept (locale aware templates, locale aware data)
 - fix premature ready event in chokidar
-- data explorer
-- task runner
 
 ## Performance
 
