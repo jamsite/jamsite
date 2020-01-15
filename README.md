@@ -35,9 +35,9 @@ Open url from output in a browser:
 - :heavy_check_mark: windows support
 - :heavy_check_mark: pluggable core
 - :heavy_check_mark: support jamsite-config
-- data explorer
 - task runner
 - support .env
+- data explorer
 - config: error pages, headers, redirects, rewrite, etc.
 - save generated pages as static files
 - i18n concept (locale aware templates, locale aware data)
