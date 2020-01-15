@@ -38,7 +38,7 @@ Open url from output in a browser:
 - data explorer
 - task runner
 - support .env
-- custom error pages
+- config: error pages, headers, redirects, rewrite, etc.
 - save generated pages as static files
 - i18n concept (locale aware templates, locale aware data)
 - fix premature ready event in chokidar
