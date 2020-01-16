@@ -1,6 +1,6 @@
 {
   "name": "@jamsite/jamsite",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Jamsite - JAMstack framework",
   "main": "./lib",
   "directories": {
