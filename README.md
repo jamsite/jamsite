@@ -35,7 +35,7 @@ Open url from output in a browser:
 - :heavy_check_mark: windows support
 - :heavy_check_mark: pluggable core
 - :heavy_check_mark: support jamsite-config
-- task runner
+- :heavy_check_mark: task runner
 - support .env
 - data explorer
 - config: error pages, headers, redirects, rewrite, etc.
