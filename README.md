@@ -37,7 +37,7 @@ Open url from output in a browser:
 - :heavy_check_mark: support jamsite-config
 - :heavy_check_mark: task runner
 - :heavy_check_mark: support .env
-- config: error pages, headers, redirects, rewrite, etc.
+- :heavy_check_mark: config: error pages, headers, redirects, rewrite, etc.
 - save generated pages as static files
 - i18n concept (locale aware templates, locale aware data)
 - data explorer
