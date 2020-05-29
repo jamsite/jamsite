@@ -18,22 +18,22 @@
   "author": "Aleksandr Tsertkov <tsertkov@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chokidar": "^3.3.1",
+    "chokidar": "^3.4.0",
     "fs-router": "^0.5.0",
-    "handlebars": "^4.7.2",
+    "handlebars": "^4.7.6",
     "lodash.get": "^4.4.2",
-    "marked": "^0.8.0",
+    "marked": "^1.1.0",
     "micro": "^9.3.4",
-    "mime-types": "^2.1.26",
+    "mime-types": "^2.1.27",
     "path-to-regexp": "^6.1.0",
     "serve-handler": "^6.1.2",
     "toml": "^3.0.0"
   },
   "devDependencies": {
-    "ava": "^3.0.0",
-    "nyc": "^15.0.0",
+    "ava": "^3.8.2",
+    "nyc": "^15.0.1",
     "snazzy": "^8.0.0",
-    "standard": "^14.3.1"
+    "standard": "^14.3.4"
   },
   "ava": {
     "files": [
